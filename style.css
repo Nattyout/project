@@ -1,0 +1,89 @@
+#aa{
+    background-color: #201E43;
+    height: 750px;
+    width: 750px;
+    margin: auto;
+}
+header{
+    background-color: #134B70;
+    height: 125px;
+    text-align: center;
+}
+.menu{
+    background-color: #508C9B;
+    height: 500px;
+    width: 150px;
+    float: left;
+}
+.menu1{
+    background-color: #83B4FF;
+    height: 50px;
+    width: 130px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+}
+.menu2{
+    background-color: #088395;
+    height: 50px;
+    width: 130px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+}
+.menu3{
+    background-color: #37B7C3;
+    height: 50px;
+    width: 130px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+}
+.bb{
+    background-color: #009FBD;
+    height: 500px;
+    width: 600px;
+    display: inline-block;
+    
+}
+.banner{
+    background-color: #1679AB;
+    height: 100px;
+    width: 580px;
+    display: inline-block;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+.news{
+    background-color: #6EACDA;
+    height: 370px;
+    width: 285px;
+    float: left;
+    position: relative;
+    top: 20px;
+    left: 10px;
+    text-align: center;
+    border-radius: 20px;
+
+}
+.todolist{
+    background-color: #536493;
+    height: 370px;
+    width: 285px;
+    float: right;
+    position: relative;
+    top: 20px;
+    right: 10px;
+    text-align: center;
+    border-radius: 20px;
+}
+footer{
+    background-color: #4B70F5;
+    height: 125px;
+    width: 750px;
+    clear: left;
+    text-align: center;
+}
